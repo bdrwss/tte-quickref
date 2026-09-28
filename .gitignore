@@ -1,0 +1,11 @@
+# Build and distribution archives
+*.zip
+*.tar.gz
+*.7z
+
+# System & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
